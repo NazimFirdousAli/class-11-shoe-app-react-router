@@ -1,0 +1,8 @@
+.App {
+  text-align: center;
+}
+.product-Container{
+  display:inline-flexbox;
+  flex-direction:column;
+  flex-wrap: wrap;
+}
